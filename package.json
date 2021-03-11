@@ -12,7 +12,10 @@
   },
   "devDependencies": {
     "@stencil/core": "^2.0.0",
+    "@stencil/react-output-target": "^0.0.9",
     "@stencil/router": "^1.0.1"
   },
+  "types": "./dist/types/components.d.ts",
+  "path":"",
   "license": "MIT"
 }
